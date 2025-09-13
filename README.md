@@ -2,6 +2,8 @@
 
 This repository provides a **Cloudflare Worker template** for creating custom webhook tools that integrate with [Wassist](https://wassist.app).
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Wassist/webhook-tool-cloudflare-template)
+
 ## 🎯 What This Template Does
 
 This Cloudflare Worker example creates an interactive guessing game with the following features:
